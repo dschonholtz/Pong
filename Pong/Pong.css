@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+#player1 {
+	width: 20px;
+    height: 200px;
+    position: absolute;
+}
+
+#player2 {
+	width: 20px;
+    height: 200px;
+    position: absolute;
+}
+
+#ball {
+	width: 20px;
+    height: 20px;
+    position: absolute;
+}
+
+#p1score{
+	font-family: consolas;
+    font-size: 30px;
+    float: left;
+    color: white;
+    display: inline;
+}
+#p2score{
+	font-family: consolas;
+    font-size: 30px;
+    float: right;
+    color:white;
+    display: inline;
+}
